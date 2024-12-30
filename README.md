@@ -18,20 +18,48 @@ An Inventory Management System has been created here. This project was developed
 *Detailed reporting and analytics*
 
 *Secure login system*
-
+<br>
+<br><br>
+<br>
 ![1](https://github.com/user-attachments/assets/3b3f317e-4ad4-45f8-a213-2e71288978ad)
+<br>
+<br>
 ![Login-2](https://github.com/user-attachments/assets/e47715fb-e029-4ed0-a9b5-0683b3dc0bed)
+<br>
+<br>
 ![ModuleForm-3](https://github.com/user-attachments/assets/ba7d46ee-1e67-4e13-8560-5aae1e93e872)
+<br>
+<br>
 ![4 1-UserModeleForm](https://github.com/user-attachments/assets/e69eb42b-b780-4325-94f6-d868948da172)
+<br>
+<br>
 ![User-4](https://github.com/user-attachments/assets/35af1dfc-22a8-41ea-b0d1-a26a1071ce95)
+<br>
+<br>
 ![4 1-UserModeleForm](https://github.com/user-attachments/assets/5ae15268-72a7-4c0a-bc80-219f99eb56aa)
+<br>
+<br>
 ![Category-5](https://github.com/user-attachments/assets/696961b2-0fea-412b-8da7-89002d4fae9b)
+<br>
+<br>
 ![CategoryModuleForm-5 1](https://github.com/user-attachments/assets/24573605-c345-41bd-9b09-57af739de3ea)
+<br>
+<br>
 ![Product-6](https://github.com/user-attachments/assets/6a9c8df2-0126-4fe0-96e4-c646d88bd82f)
+<br>
+<br>
 ![Customer-7](https://github.com/user-attachments/assets/09f48a5b-2882-4a43-8a62-7d1c27eb4bd5)
+<br>
+<br>
 ![CustomerModuleForm-7 1](https://github.com/user-attachments/assets/cf8b301c-fe72-4f18-9059-8b6980633d4e)
+<br>
+<br>
 ![Order-8](https://github.com/user-attachments/assets/b5018b62-e508-4107-b2fa-1f65d4f59da5)
+<br>
+<br>
 ![OrderBillModuleForm-8 1](https://github.com/user-attachments/assets/681319f4-2299-454a-bdd7-c04e1106e707)
+<br>
+<br>
 <br>
 
 ***The Sky shop Pdf File**
