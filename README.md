@@ -1,8 +1,12 @@
-#The Sky Shop
+The Sky Shop
+<br>
+<br>
+<br>
 
-##Overview
+Overview
 
 An Inventory Management System has been created here. This project was developed as part of the second-year .NET coursework. It is designed to streamline inventory tracking and management processes.
+<br>
 <br>
 
 ***Features***
